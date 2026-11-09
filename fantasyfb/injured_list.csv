@@ -6,7 +6,7 @@ player_id_sr,name,position,until
 00-0041035,De'Zhaun Stribling,WR,11
 00-0040870,Ja'Kobi Lane,WR,6
 00-0036139,Rico Dowdle,RB,6
-00-0037664,Alec Pierce,WR,8
+00-0037664,Alec Pierce,WR,12
 00-0039075,Puka Nacua,WR,3
 00-0039910,Jayden Daniels,QB,4
 00-0039918,Caleb Williams,QB,5
@@ -14,20 +14,19 @@ player_id_sr,name,position,until
 00-0041523,Caleb Douglas,WR,6
 00-0041496,Jonah Coleman,RB,6
 00-0034351,Dallas Goedert,TE,5
-00-0039146,Jayden Reed,WR,8
-00-0039344,Jonathon Brooks,RB,8
+00-0039146,Jayden Reed,WR,18
+00-0039344,Jonathon Brooks,RB,10
 00-0040691,Jaxson Dart,QB,18
-00-0036973,Travis Etienne Jr.,RB,8
+00-0036973,Travis Etienne Jr.,RB,9
 00-0039040,De'Von Achane,RB,18
-00-0036252,Michael Pittman Jr.,WR,8
+00-0036252,Michael Pittman Jr.,WR,9
 00-0038685,Chris Brooks,RB,9
 00-0041512,Jadarian Price,RB,8
-00-0040737,Terrance Ferguson,TE,10
 00-0038555,Tank Bigsby,RB,9
-00-0036912,DeVonta Smith,WR,6
+00-0036912,DeVonta Smith,WR,9
 00-0039890,Adonai Mitchell,WR,7
 00-0034844,Saquon Barkley,RB,6
-00-0034796,Lamar Jackson,QB,6
+00-0034796,Lamar Jackson,QB,13
 00-0037291,Jalen Nailor,WR,6
 00-0038544,Quentin Johnston,WR,6
 00-0038120,Breece Hall,RB,6
@@ -37,11 +36,11 @@ player_id_sr,name,position,until
 00-0039739,Roman Wilson,WR,8
 00-0031588,Stefon Diggs,WR,6
 00-0034827,DJ Moore,WR,6
-00-0035719,Deebo Samuel Sr.,WR,8
+00-0035719,Deebo Samuel Sr.,WR,9
 00-0033040,Tyreek Hill,WR,18
 00-0036988,Joshua Palmer,WR,6
-00-0036389,Jalen Hurts,QB,7
-00-0041027,Jeremiyah Love,RB,6
+00-0036389,Jalen Hurts,QB,18
+00-0041027,Jeremiyah Love,RB,13
 00-0037816,Romeo Doubs,WR,10
 00-0031381,Davante Adams,WR,14
 00-0035659,Terry McLaurin,WR,18
@@ -51,4 +50,26 @@ player_id_sr,name,position,until
 00-0040730,RJ Harvey,RB,12
 00-0040138,Jaylin Noel,WR,18
 00-0040134,Pat Bryant,WR,9
-00-0041029,Jordyn Tyson,WR,9
+00-0033307,Kendrick Bourne,WR,18
+00-0040074,Tyler Loop,K,13
+00-0037746,Brian Robinson Jr.,RB,12
+00-0039384,Tyrone Tracy Jr.,RB,12
+00-0037258,Dameon Pierce,RB,12
+00-0035228,Kyler Murray,QB,11
+00-0037157,Bam Knight,RB,9
+00-0031408,Mike Evans,WR,9
+00-0035676,A.J. Brown,WR,9
+00-0035685,David Montgomery,RB,9
+00-0037740,Garrett Wilson,WR,9
+00-0037545,Rashid Shaheed,WR,9
+00-0034869,Sam Darnold,QB,9
+00-0040715,Cam Skattebo,RB,9
+00-0038393,Dontayvion Wicks,WR,9
+00-0039032,Tyjae Spears,RB,9
+00-0041438,Carnell Tate,WR,9
+00-0040236,Kyle Monangai,RB,9
+00-0037247,George Pickens,WR,9
+00-0039811,MarShawn Lloyd,RB,9
+00-0040734,TreVeyon Henderson,RB,11
+00-0036261,Brandon Aiyuk,WR,18
+00-0038551,Kendre Miller,RB,18
