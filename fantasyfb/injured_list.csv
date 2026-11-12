@@ -1,5 +1,5 @@
 player_id_sr,name,position,until
-00-0033553,James Conner,RB,5
+00-0033553,James Conner,RB,10
 00-0037563,Malik Davis,RB,18
 00-0038977,Tank Dell,WR,5
 00-0037197,Isiah Pacheco,RB,14
@@ -62,7 +62,7 @@ player_id_sr,name,position,until
 00-0035685,David Montgomery,RB,9
 00-0037740,Garrett Wilson,WR,9
 00-0037545,Rashid Shaheed,WR,9
-00-0034869,Sam Darnold,QB,9
+00-0034869,Sam Darnold,QB,10
 00-0040715,Cam Skattebo,RB,9
 00-0038393,Dontayvion Wicks,WR,9
 00-0039032,Tyjae Spears,RB,9
@@ -73,3 +73,7 @@ player_id_sr,name,position,until
 00-0040734,TreVeyon Henderson,RB,11
 00-0036261,Brandon Aiyuk,WR,18
 00-0038551,Kendre Miller,RB,18
+00-0035700,Josh Jacobs,RB,11
+00-0035289,Gardner Minshew II,QB,18
+00-0033885,David Njoku,TE,10
+00-0034775,Christian Kirk,WR,13
