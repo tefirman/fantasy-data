@@ -57,7 +57,7 @@ player_id_sr,name,position,until
 00-0037258,Dameon Pierce,RB,12
 00-0035228,Kyler Murray,QB,11
 00-0037157,Bam Knight,RB,9
-00-0031408,Mike Evans,WR,9
+00-0031408,Mike Evans,WR,10
 00-0035676,A.J. Brown,WR,9
 00-0035685,David Montgomery,RB,9
 00-0037740,Garrett Wilson,WR,9
@@ -77,3 +77,4 @@ player_id_sr,name,position,until
 00-0035289,Gardner Minshew II,QB,18
 00-0033885,David Njoku,TE,10
 00-0034775,Christian Kirk,WR,13
+00-0035229,T.J. Hockenson,TE,10
