@@ -58,7 +58,7 @@ player_id_sr,name,position,until
 00-0035228,Kyler Murray,QB,11
 00-0037157,Bam Knight,RB,9
 00-0031408,Mike Evans,WR,10
-00-0035676,A.J. Brown,WR,9
+00-0035676,A.J. Brown,WR,10
 00-0035685,David Montgomery,RB,10
 00-0037740,Garrett Wilson,WR,9
 00-0037545,Rashid Shaheed,WR,9
@@ -75,6 +75,6 @@ player_id_sr,name,position,until
 00-0038551,Kendre Miller,RB,18
 00-0035700,Josh Jacobs,RB,11
 00-0035289,Gardner Minshew II,QB,18
-00-0033885,David Njoku,TE,10
 00-0034775,Christian Kirk,WR,13
 00-0035229,T.J. Hockenson,TE,10
+00-0030565,Geno Smith,QB,10
