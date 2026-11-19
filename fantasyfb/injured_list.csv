@@ -15,11 +15,11 @@ player_id_sr,name,position,until
 00-0041496,Jonah Coleman,RB,6
 00-0034351,Dallas Goedert,TE,5
 00-0039146,Jayden Reed,WR,18
-00-0039344,Jonathon Brooks,RB,10
+00-0039344,Jonathon Brooks,RB,11
 00-0040691,Jaxson Dart,QB,18
 00-0036973,Travis Etienne Jr.,RB,9
 00-0039040,De'Von Achane,RB,18
-00-0036252,Michael Pittman Jr.,WR,9
+00-0036252,Michael Pittman Jr.,WR,11
 00-0038685,Chris Brooks,RB,9
 00-0041512,Jadarian Price,RB,8
 00-0038555,Tank Bigsby,RB,12
@@ -31,9 +31,9 @@ player_id_sr,name,position,until
 00-0038544,Quentin Johnston,WR,6
 00-0038120,Breece Hall,RB,6
 00-0038994,Jordan Addison,WR,13
-00-0039746,Will Shipley,RB,10
+00-0039746,Will Shipley,RB,11
 41840,Tre' Harris,WR,6
-00-0039739,Roman Wilson,WR,8
+00-0039739,Roman Wilson,WR,11
 00-0031588,Stefon Diggs,WR,6
 00-0034827,DJ Moore,WR,6
 00-0035719,Deebo Samuel Sr.,WR,9
@@ -44,7 +44,7 @@ player_id_sr,name,position,until
 00-0037816,Romeo Doubs,WR,11
 00-0031381,Davante Adams,WR,14
 00-0035659,Terry McLaurin,WR,18
-00-0040242,Jacory Croskey-Merritt,RB,10
+00-0040242,Jacory Croskey-Merritt,RB,11
 00-0038905,Blake Grupe,K,18
 00-0039498,Harrison Mevis,K,18
 00-0040730,RJ Harvey,RB,12
@@ -54,7 +54,6 @@ player_id_sr,name,position,until
 00-0040074,Tyler Loop,K,13
 00-0037746,Brian Robinson Jr.,RB,12
 00-0039384,Tyrone Tracy Jr.,RB,12
-00-0037258,Dameon Pierce,RB,12
 00-0035228,Kyler Murray,QB,11
 00-0037157,Bam Knight,RB,9
 00-0031408,Mike Evans,WR,10
@@ -85,3 +84,13 @@ player_id_sr,name,position,until
 00-0038041,Jake Ferguson,TE,13
 00-0038559,Michael Wilson,WR,18
 00-0039851,Drake Maye,QB,18
+00-0040737,Terrance Ferguson,TE,11
+00-0038797,Emanuel Wilson,RB,11
+00-0039299,George Holani,RB,11
+00-0039855,Jalen McMillan,WR,11
+00-0041044,Zachariah Branch,WR,11
+00-0041104,Demond Claiborne,RB,11
+00-0035993,Tyler Huntley,QB,18
+00-0038104,Tyquan Thornton,WR,18
+00-0036290,Cole Kmet,TE,18
+00-0038098,Pierre Strong Jr.,RB,11
